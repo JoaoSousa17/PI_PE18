@@ -70,8 +70,11 @@ git clone https://github.com/JoaoSousa17/PI_PE18.git
 ## 👨‍💻 A nossa equipa (emails por colocar)
 
 João Pedro Castanheira da Costa Abreu de Sousa (up202207285)
+
 Domingos Manuel Ordenã Neto (up202108728)
+
 Luís Filipe Moura Oliveira da Silveira Contreiras (up202108742)
+
 Patrícia Palmira de Sousa (up202109256)
 
 
